@@ -1,7 +1,7 @@
 package but.info3.eres;
 
 /**
- * Item de la stack
+ * Item de test
  */
 public class DefaultItem implements Item {
 
