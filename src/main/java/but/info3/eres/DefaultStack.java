@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.EmptyStackException;
 
 /**
- * Default Stack ou quoi l'équipe
+ * Class of Default Stack.
+ * ou quoi l'équipe.
  */
 public class DefaultStack implements SimpleStack {
     /**
