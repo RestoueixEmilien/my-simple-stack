@@ -4,11 +4,11 @@ import java.util.ArrayList;
 import java.util.EmptyStackException;
 
 /**
- * Stack.
+ * Default Stack.
  */
 public class DefaultStack implements SimpleStack {
     /**
-     * itemList.
+     * ItemList.
      */
     private List<Item> itemList = new ArrayList<>();
     /**
