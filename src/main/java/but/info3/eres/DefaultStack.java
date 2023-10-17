@@ -8,7 +8,7 @@ import java.util.EmptyStackException;
  */
 public class DefaultStack implements SimpleStack {
     /**
-     * itemList.
+     * ItemList.
      */
     private List<Item> itemList = new ArrayList<>();
     /**
